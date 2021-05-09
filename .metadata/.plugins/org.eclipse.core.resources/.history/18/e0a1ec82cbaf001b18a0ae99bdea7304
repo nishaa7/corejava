@@ -1,0 +1,22 @@
+package test;
+
+import java.util.Scanner;
+
+public class Evennumcheck {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int scanner =12;
+	    if (scanner/2==0)
+	    {
+	    	System.out.println(scanner);
+	    	
+	    }
+		
+		//Scanner scanner = new Scanner(System.in);
+		
+		
+	}
+
+}

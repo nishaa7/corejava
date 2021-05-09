@@ -1,0 +1,23 @@
+package oopsconcepts;
+
+public class ClassA {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	int salary;   
+	string Name;
+    string OrgName;
+		
+		public void Display()
+		{
+		System.out.println("Name of the Employee" + Name);
+		System.out.println("Name of the Organisation" +OrgName );
+		System.out.println("salary" + salary);
+		
+		}
+
+		
+	}
+
+}

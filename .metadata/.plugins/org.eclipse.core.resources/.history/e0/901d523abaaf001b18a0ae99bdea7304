@@ -1,0 +1,33 @@
+package test;
+
+public class Myclass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("Hello World");
+//------Data Types in java ----------
+int num1;
+int num2;
+num1=40;
+num2=20;
+
+int Sum = num1+num2;
+System.out.println(Sum);
+float div = num1/num2;
+System.out.println(div);
+
+int num3=12;
+int num4=2;
+
+int Mul= num3*num4;
+System.out.println(Mul);
+String name = "Nisha";
+
+System.out.println("Hello " + name);
+System.out.println("Length : " +name.length());
+System.out.println("Upper Case : " +name.toUpperCase());
+
+
+	}
+
+}
